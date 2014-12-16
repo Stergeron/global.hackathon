@@ -1,0 +1,16 @@
+{
+  "teamName": "Echoes",
+  "members": [
+    {
+      "name": "Marin Troselj",
+      "koding": "mtroselj",
+      "location": "Rijeka, HR"
+    },
+    {
+      "name": "Fran Hrzenjak",
+      "koding": "frnhr",
+      "location": "Zagreb, HR",
+      "lead": true
+    }
+  ]
+}

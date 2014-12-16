@@ -1,0 +1,23 @@
+
+{
+  "teamName": "Ten80 Developers",
+  "members": [
+    {
+      "name": "Maneesh Tewani",
+      "twitter": "maneesht18",
+      "koding": "maneesht",
+      "location": "St. Louis, US",
+      "lead": true
+    },
+    {
+      "name": "Kyle Shirley",
+      "koding": "zaferon",
+      "location": "St. Louis, US"
+    },
+    {
+      "name": "Andrew Pizzullo",
+      "koding": "pizzyp",
+      "location": "Columbia, US"
+    }
+  ]
+}

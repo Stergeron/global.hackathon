@@ -3,7 +3,7 @@
 We are five high-school students from Los Angeles, only one of whom actually plays football.
 Our name was inspired by South Park episode ["Go Fund Yourself" (Season 18, Episode 1)](http://southpark.cc.com/full-episodes/s18e01-go-fund-yourself) and we in no other way affiliated with the National Football League team of the same name.
 
-Please support us and share your experiences/money with us on our [team page](https://www.facebook.com/thewashingtonredskinshack)!
+Please support us and share your experiences with us on our [team page](https://www.facebook.com/thewashingtonredskinshack)!
 
 ## About our team
 
@@ -25,15 +25,14 @@ Please support us and share your experiences/money with us on our [team page](ht
 
 `James` is an algorithms expert and is top 50 on the USACO rankings in 2014. James actually [invented the subordinate-sequential search algorithm](https://koding.com/jlennon1) with the help of fellow Koders. James has also created several published games, including [Nebulus](https://itunes.apple.com/app/nebulous-multiplayer-space/id874328065?mt=8) and [Driftlight](https://itunes.apple.com/us/app/driftlight/id908131148?mt=8).
 
-`Jake` is an esteemed hacker who often goes by the name of '4chan'. He's apparently very infamous. You better not go and tell CNN his real name!
+`Jake` is an esteemed hacker who often goes by the name of '4chan'. He's apparently very infamouss, but you better not tell [CNN](https://www.youtube.com/watch?v=kRcdmbC0HHs)!
+
 
 ## What we're making
 
-It's quite possible that we are inventing the most revolutionary product ever made! [As part of our review of playing field, we have decided to move forward with cloud-based early adopter. Skate to where the puck is going to be.](http://projects.wsj.com/buzzwords2014/#p=13%7C35,13%7C%7C6%7C%7C2%7C2) Steve Jobs may [1] have decreed "the iRedskins (formerly The Washington Redksins) is the most revolutionary and magical product Apple has made yet" while tripping on an LCD in India.
+We made a site called Living Planet in which we discuss select current problems in the world and visualize them primarily using interactive graphs and charts.
 
-Expect us on Kickstarter [2] soon [3]!
-
-[1]: It's not in _Steve Jobs_ by Walter Isaacson, but it's still possible [4] that he did say it <br>
-[2]: See "Go Fund Yourself"'s above link <br>
-[3]: See [Valve Time](https://developer.valvesoftware.com/wiki/Valve_Time) or [never](http://lmgtfy.com/?q=define+never) or [soon (tm)](http://www.urbandictionary.com/define.php?term=soon%20%28tm%29) <br>
-[4]: Literally and totally impossible
+## Technologies Used
+![Meteor](https://d14jjfgstdxsoz.cloudfront.net/meteor-development-group.png)  
+[three.js](http://threejs.org)  
+![D3](https://camo.githubusercontent.com/3da33aba96e13f6dd2c8b57141defdb53b6ca918/687474703a2f2f64336a732e6f72672f6c6f676f2e737667) 
